@@ -1,5 +1,5 @@
 ---
-title: "Lectura de noticias"
+title: "Parrafos periodisticos"
 date: 2023-02-01T22:50:36-05:00
 draft: false
 ---
