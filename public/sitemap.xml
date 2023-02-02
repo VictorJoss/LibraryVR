@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://libraryvr.github.io/</loc>
     <lastmod>2023-02-01T22:50:36-05:00</lastmod>
   </url><url>
-    <loc>/post/firts/</loc>
+    <loc>https://libraryvr.github.io/post/firts/</loc>
     <lastmod>2023-02-01T22:50:36-05:00</lastmod>
   </url><url>
-    <loc>/post/second/</loc>
+    <loc>https://libraryvr.github.io/post/second/</loc>
     <lastmod>2023-02-01T22:50:36-05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://libraryvr.github.io/post/</loc>
     <lastmod>2023-02-01T22:50:36-05:00</lastmod>
   </url><url>
-    <loc>/post/tres/</loc>
+    <loc>https://libraryvr.github.io/post/tres/</loc>
     <lastmod>2023-02-01T22:50:36-05:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://libraryvr.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://libraryvr.github.io/tags/</loc>
   </url>
 </urlset>
